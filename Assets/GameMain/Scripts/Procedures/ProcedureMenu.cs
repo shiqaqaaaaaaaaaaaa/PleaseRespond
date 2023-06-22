@@ -35,6 +35,8 @@ namespace GameMain
             }
             //–∂‘ÿÀ˘”–≥°æ∞
 
+            GameEntry.UI.OpenUIForm(UIFormId.MenuForm, this);
+
             GameEntry.Event.Subscribe(OpenUIFormSuccessEventArgs.EventId, OnOpenUIFormSuccess);
         }
         protected override void OnLeave(ProcedureOwner procedureOwner, bool isShutdown)
