@@ -1,0 +1,4 @@
+repository "WinterCoop@bulletrunner@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

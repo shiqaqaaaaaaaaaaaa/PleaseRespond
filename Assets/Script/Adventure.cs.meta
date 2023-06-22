@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6837068e7040cc14fb142ee7ad4ad34b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Day: {fileID: 11400000, guid: dfbe3314d56efd848b416c3f26aaa397, type: 2}
+  - Day01: {instanceID: 0}
+  - Day02: {instanceID: 0}
+  - Day03: {instanceID: 0}
+  - Day04: {instanceID: 0}
+  - Day05: {instanceID: 0}
+  - Day06: {instanceID: 0}
+  - Day07: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
